@@ -1,3 +1,5 @@
+// License: MIT
+
 module github.com/ruziba3vich/prodonik_rl
 
 go 1.24.1
